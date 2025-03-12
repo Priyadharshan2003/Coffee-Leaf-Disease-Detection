@@ -22,6 +22,6 @@ h5py==3.7.0
 pyyaml==6.0
 
 # Other dependencies
-requests==2.28.1
+requests==2.32.2
 beautifulsoup4==4.11.1
 dotenv==1.0.1
