@@ -13,7 +13,7 @@ This application uses deep learning to predict and classify coffee leaf diseases
   - Healthy leaves
 - Visual feedback with prediction confidence scores
 - Simple and intuitive user interface
-
+- Fixed bugs
 ## Technologies Used
 
 - Python 3.8+
